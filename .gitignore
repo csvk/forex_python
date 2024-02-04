@@ -1,5 +1,6 @@
-# credential files
+# credential file
 defs.py
+api_creds.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
