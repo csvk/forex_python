@@ -2,6 +2,9 @@
 defs.py
 api_creds.json
 
+# data files
+data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
